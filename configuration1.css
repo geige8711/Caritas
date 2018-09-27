@@ -1,0 +1,20 @@
+.top-left{
+  border:red solid 5px;
+  width:47%;
+  float:left;
+}
+.top-middle{
+  border:red solid 5px;
+  width:47%;
+  float:left;
+}
+.bottom-left{
+  border:red solid 5px;
+  width:47%;
+  float:left;
+}
+.bottom-right{
+  border:red solid 5px;
+  width:47%;
+  float:left;
+}

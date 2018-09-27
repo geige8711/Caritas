@@ -1,0 +1,45 @@
+#prat1{
+
+width: 200px;
+
+height: 200px;
+
+background: blue;/*边长200像素的蓝色方块*/
+float: left;
+
+}
+
+#prat2{
+
+width: 200px;
+
+height: 200px;
+
+background: red;/*边长200像素的蓝色方块*/
+float: left;
+
+}
+
+#prat3{
+
+width: 200px;
+
+height: 200px;
+
+background: yellow;/*边长200像素的蓝色方块*/
+float: left;
+clear:left;
+
+}
+
+#prat4{
+
+width: 200px;
+
+height: 200px;
+
+background: green;/*边长200像素的蓝色方块*/
+float: left;
+
+
+}
